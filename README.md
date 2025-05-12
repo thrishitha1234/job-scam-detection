@@ -7,21 +7,6 @@ By leveraging natural language processing, feature engineering, and multiple mac
 
 ---
 
-## 📌 Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Models Implemented](#models-implemented)
-- [Tech Stack](#tech-stack)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Sustainability Impact](#sustainability-impact)
-- [Contributors](#contributors)
-
----
-
 ## 🛑 Problem Statement
 
 Job scam emails often mimic real offers, making them hard to detect using traditional spam filters. This project aims to bridge that gap by:
