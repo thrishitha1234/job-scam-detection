@@ -82,19 +82,14 @@ Model evaluation metrics: Accuracy, F1, Precision, Recall, MCC, ROC-AUC
 
 ## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/Job-Offer-Scam-Detection.git
-   cd Job-Offer-Scam-Detection
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Explore:
+2. Explore:
    - `complete_model_workflow/ipynb` → Full pipeline (EDA to evaluation)
    - `grid_rf_model.pkl` → Load and test best model
-4. Predict on new data by importing the pickled model:
+3. Predict on new data by importing the pickled model:
    ```python
    import joblib
    model = joblib.load("grid_rf_model.pkl")
