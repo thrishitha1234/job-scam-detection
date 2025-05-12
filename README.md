@@ -159,13 +159,6 @@ Prevents economic and emotional exploitation of vulnerable job seekers.
 - **Janani Kripa Manoharan** – EDA, Naive Bayes modeling, visualizations  
 - **Laxmi Thrishitha Kalvakota** – Boosting models, benchmarking, project coordination
 
----
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
-
----
 
 ---
 
