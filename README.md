@@ -133,11 +133,11 @@ Prevents economic and emotional exploitation of vulnerable job seekers.
 ---
 
 ## 🤝 Contributors
-
-- **Sreenidhi Hayagreevan** – Data Syntesis, Random Forest modeling, documentation  
-- **Shivani Beri** – Feature engineering, SVM & KNN models  
+- **Laxmi Thrishitha Kalvakota** –  Data synthesis and feature engineering, Boosting models, benchmarking, project coordination
+- **Sreenidhi Hayagreevan** –  Random Forest modeling, documentation  
+- **Shivani Beri** –  SVM & KNN models  
 - **Janani Kripa Manoharan** – EDA, Naive Bayes modeling, visualizations  
-- **Laxmi Thrishitha Kalvakota** – Boosting models, benchmarking, project coordination
+
 
 
 ---
